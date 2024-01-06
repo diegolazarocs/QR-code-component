@@ -2,7 +2,8 @@
 QR code component
 
 
-Preview:
+## Preview:
+
 mobile version
 
 ![QR code component - Mobile Mode](https://github.com/diegolazarocs/QR-code-component/assets/111025421/ae78ea76-6e30-4a0a-8e9f-478157a150d0)
